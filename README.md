@@ -4,6 +4,8 @@
 
 > A curated list of resources for traveling in Switzerland, covering official tourism boards, scenic train networks, alpine regions, hiking routes, and safety services.
 
+Switzerland is a breathtaking Alpine destination renowned for its panoramic scenic rail networks, pristine glacial lakes, towering mountain peaks, and charming historic cantons. This list is intended for alpine hikers, scenic rail travelers, winter sports enthusiasts, and nature explorers.
+
 ## Contents
 
 - [Official & Planning](#official--planning)
